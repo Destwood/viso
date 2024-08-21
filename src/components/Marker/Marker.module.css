@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+}
+.markerIcon {
+  height: 2rem;
+}
+.number {
+  position: absolute;
+  top: 0.1rem;
+  left: 0.33rem;
+
+  display: block;
+  width: 1.35rem;
+
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.7rem;
+}
